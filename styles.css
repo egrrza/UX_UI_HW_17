@@ -1,0 +1,57 @@
+.top-navigation {
+    width: 1512px;
+    height: 97px;
+    margin: 0 0 47px;
+    padding: 25px 268px 25px 329px;
+    background-color: #30581e;
+  }
+
+  .ux-logo-1 {
+    width: 596px;
+    height: 257px;
+    margin: 47px 458px 21px 10px;
+  }
+
+  .Introduction {
+    width: 1379px;
+    height: 220px;
+    margin: 21px 60px 6px 73px;
+    font-family: Quicksand;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .the-works-title {
+    width: 348px;
+    height: 86px;
+    margin: 14px 10px 28px 100px;
+    font-family: Pacifico;
+    font-size: 48px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #30581e;
+  }
+
+  .mediarex {
+    width: 1101px;
+    height: 620px;
+    margin: 28px 222px 132px 189px;
+  }
+
+  .contact-information {
+    width: 1512px;
+    height: 346px;
+    margin: 286px 0 0;
+    padding: 88px 169px 29px 71px;
+    background-color: #30581e;
+  }
